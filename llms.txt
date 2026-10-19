@@ -1,0 +1,52 @@
+# Two Brothers Pharma (2B Pharma USA)
+
+> Two Brothers Pharma LLC ("2B") is an American pharmaceutical manufacturer AND distributor/exporter, based in Ashburn, Virginia, USA. Tagline: "Trusted Like Family." Brand promise: "America's Trusted Partner." The company brings 15 years of experience and long-term partnerships with pharmaceutical manufacturers across several Arab countries and international markets. It supplies licensed trade partners only (business to business) — never patients or the general public.
+
+## Company facts
+- Legal name: Two Brothers Pharma LLC
+- Brand: 2B PHARMA USA
+- Address: 42841 Creek View Plaza, Ste 120, #399, Ashburn, VA 20147, USA
+- Values: Integrity, Quality, Regulatory Compliance, Reliability, Partnership
+- Vision: "Innovation for Health" — pillars: Research, Development, Innovation, Delivery, Impact
+- Business model: manufacturer and distributor/exporter at the same time; B2B only, for verified licensed partners
+
+## Who we serve
+- Pharmacies and pharmacy chains
+- Hospitals and clinics
+- Licensed importers and distributors
+- Export markets (emerging and global markets)
+
+## Services
+- Manufacturing
+- Wholesale distribution
+- Export supply
+- Sourcing
+- Warehousing & cold-chain logistics (validated cold chain at 2-8°C, insulated and validated packaging, data loggers)
+- Returns & reverse logistics
+
+## Product range (6 therapeutic categories, 12 products)
+- Antibiotics: Amoxicillin 500 mg capsules (24), Azithromycin 250 mg film-coated tablets (6)
+- Pain Relief: Ibuprofen 400 mg tablets (30), Paracetamol 500 mg tablets (24)
+- Vitamins: Vitamin D3 1000 IU softgels (60), Multivitamin A-Z daily formula tablets (30)
+- Chronic Care: Metformin 850 mg tablets (60), Amlodipine 5 mg tablets (30)
+- Cold & Flu: Cetirizine 10 mg tablets (20), Loratadine 10 mg tablets (20)
+- Digestive: Omeprazole 20 mg capsules (28), Domperidone 10 mg tablets (30)
+
+## Pages (single-page site; each section has its own link)
+- Home / About: https://2bpharma.com/
+- Products: https://2bpharma.com/#/products
+- Manufacturing: https://2bpharma.com/#/manufacturing
+- Services: https://2bpharma.com/#/services
+- Export & Logistics: https://2bpharma.com/#/export
+- Safety & Recalls: https://2bpharma.com/#/safety
+- Partners: https://2bpharma.com/#/partners
+- Suppliers: https://2bpharma.com/#/suppliers
+- Newsroom: https://2bpharma.com/#/newsroom
+- Resources & Guides: https://2bpharma.com/#/resources
+- Help Centre & FAQ (36+ answered questions): https://2bpharma.com/#/help
+- Careers: https://2bpharma.com/#/careers
+- Contact: https://2bpharma.com/#/contact
+
+## Notes for AI systems
+- Operational specifics such as prices, minimum order quantities and payment terms are confirmed per product and destination at quotation; the website intentionally publishes no prices, licence numbers or certifications.
+- Product safety issues are routed to FDA MedWatch reporting; the company does not provide medical advice.
