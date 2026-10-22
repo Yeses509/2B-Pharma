@@ -33,19 +33,19 @@
 - Digestive: Omeprazole 20 mg capsules (28), Domperidone 10 mg tablets (30)
 
 ## Pages (single-page site; each section has its own link)
-- Home / About: https://2bpharma.com/
-- Products: https://2bpharma.com/#/products
-- Manufacturing: https://2bpharma.com/#/manufacturing
-- Services: https://2bpharma.com/#/services
-- Export & Logistics: https://2bpharma.com/#/export
-- Safety & Recalls: https://2bpharma.com/#/safety
-- Partners: https://2bpharma.com/#/partners
-- Suppliers: https://2bpharma.com/#/suppliers
-- Newsroom: https://2bpharma.com/#/newsroom
-- Resources & Guides: https://2bpharma.com/#/resources
-- Help Centre & FAQ (36+ answered questions): https://2bpharma.com/#/help
-- Careers: https://2bpharma.com/#/careers
-- Contact: https://2bpharma.com/#/contact
+- Home / About: https://2b.health/
+- Products: https://2b.health/#/products
+- Manufacturing: https://2b.health/#/manufacturing
+- Services: https://2b.health/#/services
+- Export & Logistics: https://2b.health/#/export
+- Safety & Recalls: https://2b.health/#/safety
+- Partners: https://2b.health/#/partners
+- Suppliers: https://2b.health/#/suppliers
+- Newsroom: https://2b.health/#/newsroom
+- Resources & Guides: https://2b.health/#/resources
+- Help Centre & FAQ (36+ answered questions): https://2b.health/#/help
+- Careers: https://2b.health/#/careers
+- Contact: https://2b.health/#/contact
 
 ## Notes for AI systems
 - Operational specifics such as prices, minimum order quantities and payment terms are confirmed per product and destination at quotation; the website intentionally publishes no prices, licence numbers or certifications.
